@@ -1,0 +1,13 @@
+.skills {
+    padding: 4rem;
+    background-color: #E0F2F7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.skills__title {
+    font-size: 2rem;
+}

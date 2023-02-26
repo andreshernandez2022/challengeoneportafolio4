@@ -1,0 +1,15 @@
+.academic {
+    padding: 4rem;
+    background-color: #D8CEF6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.academic__title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+}
